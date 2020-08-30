@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Ico">
+        <file>Icons/022-save.png</file>
+        <file>Icons/056-plus.png</file>
+        <file>Icons/058-error.png</file>
+        <file>Icons/059-success.png</file>
+        <file>Icons/168-compose.png</file>
+        <file>Icons/218-edit.png</file>
+        <file>Icons/254-garbage.png</file>
+        <file>Icons/276-trash.png</file>
+        <file>Icons/288-calendar.png</file>
+        <file>Icons/328-switch.png</file>
+        <file>Icons/329-switch.png</file>
+        <file>Icons/334-switch.png</file>
+        <file>Icons/336-switch.png</file>
+        <file>Icons/index.jfif</file>
+    </qresource>
+</RCC>
